@@ -29,12 +29,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://dbcbc868.ngrok.io/repository/release/</url>
+            <url>https://dbcbc868.ngrok.io/repository/release/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://dbcbc868.ngrok.io/repository/snap/</url>
+            <url>https://dbcbc868.ngrok.io/repository/snap/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
